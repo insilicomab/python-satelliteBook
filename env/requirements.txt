@@ -1,0 +1,29 @@
+# notebook
+jupyterlab
+ipykernel
+
+# basic
+numpy
+pandas
+matplotlib
+opencv-python
+
+# geospacial
+tifffile
+rasterio
+geopandas
+shapely
+folium
+
+# others
+earthpy
+sentinelsat
+cartopy
+fiona
+pyproj
+pygeos
+rtree
+rioxarray
+pystac-client
+sat-search
+rich
